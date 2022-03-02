@@ -245,7 +245,7 @@ nav .nav-item .nav-link.home{
 }
 /*==========Footer Start Hera==========*/
 .back-to-top {
-    display: none;
+    display: static;
 }
 .back-to-top i {
     width: 50px;
